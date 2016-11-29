@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Mon C.V.</title>
+		<link rel="stylesheet" src="style.css">
+	</head>
+	<body>
+		<h1>CURRICULUM VITAE</h1>
+		
+		
+		<div>
+			<H2>Alexandre MAHIEU</H2>
+			<img src="http://www.services-3d.com/Services-3D/prestashop/497-home_default/logo-tete-de-tigre.jpg" alt="logo tigre" width="100px" >
+			<p>Venant d’un parcours atypique et passionné depuis toujours par les nouvelles technologies, je me suis orienté vers une formation de Développeur Web & mobiles à Pop School Valenciennes, ce qui m’a permis d’apprendre la programmation et la méthodologie à mettre en place pour effectuer dans les meilleures conditions un site web ou une application mobile. Découvrez mon parcours ci-dessous:</p>
+		</div>
+
+
+
+		<div>
+			<h3>Expériences</h3>
+				<ul>
+					<li>Pop School Lens</li>
+					<li>D3T Carvin</li>
+					<li>VORTEX Cambrai</li>
+					<li>VORTEX Lens</li>
+					<li>STGS Sainte-Catherine les Arras</li>
+					<li>Furêt du Nord Lens</li>
+					<li>Servi Pro Hénin-Beaumont</li>
+				</ul>
+		</div>
+
+
+		
+		<div>
+			<h3>Compétences</h3>
+				<ul>
+					<li>Accueil clientèle</li>
+					<li>Commande de marchandises</li>
+					<li>Retour de marchandises</li>
+					<li>présentation produits</li>
+					<li>Gestion de commerce</li>
+					<li>Organisation de salon evenementiel</li>
+		</div>
+
+
+
+		<div>
+			<h3>Diplômes</h3>
+				<ul>
+					<li>Titre professionnel : Developpeur Web</li>
+					<li>Titre professionnel : commercial</li>
+					<li>BEP Ventes Actions Marchandes en alternance</li>
+					<li>BEP Comptabilité</li>	
+		</div>
+
+
+
+		<div>
+			<h3>Loisirs</h3>
+				<ul>
+					<li>Cinéma</li>
+					<li>Série TV</li>
+					<li>Jeu de rôle</li>
+					<li>jeux vidéo</li>
+					<li>Lecture de mangas, bandes dessinées, comics et romans de science-fiction</li>
+					<li>Passion pour la science en général et plus particulièrement l'astronomie</li>
+					<li>Le code, le code, le code...</li>
+				</ul>
+
+
+		</div>
+
+
+
+
+    </body>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
